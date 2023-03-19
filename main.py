@@ -2,8 +2,8 @@ import telegram
 from telegram.ext import Updater, CommandHandler
 import openai
 
-bot_token = '6122495025:AAGJBTLDsENldvEUE49uJu0HF51lwxtapXQ'
-api_key = "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"
+bot_token = '<YOUR_TELEGRAM_BOT_TOKEN'
+api_key = "<YOUR_OPENAI_API_KEY>"
 
 # initialisez l'API OpenAI avec votre clé d'API
 openai.api_key = api_key
