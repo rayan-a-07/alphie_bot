@@ -1,6 +1,6 @@
 <h1>Bot Telegram d'anecdotes historiques insolites</h1>
 
-<img src="https://i.imgur.com/QiHKrka.png" alt="Bot Telegram d'anecdotes historiques insolites">
+<img src="https://chatlayer.ai/wp-content/uploads/2022/04/Telegram-Bots-CL-Blog-Title-01.png?x68044" alt="Bot Telegram d'anecdotes historiques insolites">
 
 <p>Ce bot Telegram génère des anecdotes historiques insolites en utilisant l'API OpenAI GPT-3.</p>
 
@@ -21,7 +21,6 @@
   <li>Envoyez la commande <code>/anecdote</code> au bot pour recevoir une anecdote historique insolite générée par l'API OpenAI GPT-3.</li>
 </ol>
 
-<img src="https://i.imgur.com/WE8V1Ja.png" alt="Exemple d'anecdote générée par le bot">
 
 <h2>Développement</h2>
 
