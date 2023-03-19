@@ -17,7 +17,7 @@
 <h2>Utilisation</h2>
 
 <ol>
-  <li>Exécutez le fichier <code>bot.py</code> pour lancer le bot Telegram.</li>
+  <li>Exécutez le fichier <code>main.py</code> pour lancer le bot Telegram.</li>
   <li>Envoyez la commande <code>/anecdote</code> au bot pour recevoir une anecdote historique insolite générée par l'API OpenAI GPT-3.</li>
 </ol>
 
